@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/kanbaer-sht">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kanbaer-sht&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kanbaer-sht&exclude_repo=pyfingerprint,aiortc,capstone-project-re-coder&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kanbaer-sht&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
 
